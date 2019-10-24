@@ -1,0 +1,1 @@
+## Eventually I want to automate the collection of these salaries
