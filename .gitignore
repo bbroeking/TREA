@@ -1,2 +1,13 @@
+# folders
+/data
+
+# python notebooks
+.ipynb
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# general
 .DS_Store
 *.csv
+*.pkl
+.vscode/
